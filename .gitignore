@@ -117,3 +117,7 @@ test-results/
 
 .DS_Store
 .local
+
+# local dev instance (contains credentials)
+OPENALEPH-LOCAL.md
+docker-compose.local-port.yml
